@@ -5,3 +5,4 @@
 # Using data.sql in classpath: src/main/resources for initial DB setup
 # Unit tests DB queries using @DirtiesContext annotation
 # @Transactional annotation usage examaple
+# Examples for Timestamps , NativeQueries & JPQL
